@@ -15,3 +15,10 @@ Filament
 "8x2mm Magets","https://www.amazon.com/TRYMAG-Magnets-Neodymium-Whiteboard-Hobbies/dp/B0CDH2HCV9/ref=sr_1_1_sspa?crid=3E3QCPM37FE5N&dib=eyJ2IjoiMSJ9.YhaSlZXAlmGj3VSxbIsEQUq2MvNIsIxyj0ZuJYf3c3x9wloVN-oqblNYx1r31U4dGMqn-yOJ-_QHTydkZ05ip_hYazg9H8mU2l5SVtXAk7o_ManpVzRWyLhm-fMfuJeL0l_AXsbOMtLT3jKwAxCAs2r7NnWgs9rdidc-T7iRRAayTS2r81QA36HlDPl8q5ST6HQOt4O-lK-sM4d1q7EllFOako49ttsLxqm9Dg59ric.5wK0-02rrWAkun0JNhe2P_JoQdHkSmZhXdLHLhr9qWw&dib_tag=se&keywords=8mm%2Bmagnets&qid=1786035483&sprefix=mm%2Bmagnets%2Caps%2C205&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
 "3D printer","https://bambulab.com/en-us/a1-mini"
 "Filament","https://us.store.bambulab.com/products/pla-matte"
+
+# Images:
+<img width="1000" height="750" alt="3bb60f336ae30676 png" src="https://github.com/user-attachments/assets/8f106c2c-d5cd-4854-bd82-bd9bceeff8df" />
+<img width="1000" height="1365" alt="9fee14ac08da331b png" src="https://github.com/user-attachments/assets/5f184aee-1507-489f-bce6-aa595621ad77" />
+<img width="994" height="1544" alt="6d91a209f211c581 png" src="https://github.com/user-attachments/assets/1a4b8b88-4b82-4885-af5d-72d0e28ec3de" />
+<img width="1000" height="1328" alt="03c84b3022e9f585 png" src="https://github.com/user-attachments/assets/5542fd6b-4587-47d0-a1c9-0bba77d147ea" />
+<img width="1000" height="1350" alt="89842bdc54600f0a png" src="https://github.com/user-attachments/assets/ad90b8e9-20f1-44fa-9de2-1d205623d4db" />
